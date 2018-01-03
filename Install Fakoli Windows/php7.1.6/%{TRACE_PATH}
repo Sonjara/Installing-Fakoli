@@ -1,0 +1,7 @@
+[FATAL] 2017-07-06 18:38:49 : : Fakoli::shutdownHandler():  Uncaught Error: Class 'Cache' not found in C:\code\fakoli\cms\core.inc:193
+Stack trace:
+#0 C:\code\fakoli\cms\core.inc(799): Fakoli::getComponents()
+#1 C:\code\fakoli\cms\core.inc(1277): Fakoli::resolveResource('\\fakoli\\error.t...')
+#2 [internal function]: Fakoli::exceptionHandler(Object(Error))
+#3 {main}
+  thrown at C:\code\fakoli\cms\core.inc:193
