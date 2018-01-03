@@ -1,4 +1,4 @@
- Install Fakoli on Windows
+Install Fakoli on Windows
 ==========================
 
 <h3>Before You Begin</h3>
@@ -13,7 +13,7 @@ A word doc has been provided in this folder outlining all of the steps WITH PICT
 
 <h3> 1. Install PHP </h3>
 
-1.1 Easy Steps to Install <br>
+1.1 Easy Steps Install <br>
 You can download php from here (the php7.1.6 folder) 
 and place it into your c drive C:/php7.1.6
 
