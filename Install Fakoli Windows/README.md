@@ -1,4 +1,4 @@
 Install Fakoli on Windows
 ==========================
 
-<h3>Please review the word doc titled Installing Fakoli on Windows.docx for instructions</h3>
+<h3>Please review the word doc titled <i>Installing Fakoli on Windows.docx</i> for instructions</h3>
